@@ -41,7 +41,7 @@ La zona de estudio está a una altitud de unos 800m, en la ladera izquierda del 
 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
 + Concepto de producción primaria.
-  + En el guión de este tema de la asignatura contiene los elementos clave a considerar.
+  + El [guión de este tema](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/main/guion_produccion_primaria.html) de la asignatura contiene los elementos clave a considerar.
 
   + El guión de la práctica sobre producción primaria también será de ayuda para explicar los conceptos teóricos de interés. 
 
