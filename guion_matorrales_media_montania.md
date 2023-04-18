@@ -47,7 +47,7 @@ La siguiente imagen muestra la evolución temporal de la producción primaria en
 
 
 
-![ndvi]
+![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/imagenes/ndvi.png)
 
 
 
