@@ -9,7 +9,7 @@
 >
 >   
 
-![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/raw/main/imagenes/portada.jpg)
 
 
 
