@@ -43,7 +43,7 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Nc5RPO-uuxBLzaR_kkBiotzvcN6BmB0&ehbc=2E312F" width="640" height="680"></iframe>
 
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2022-2023/guion_mutualismo.html) aplicación web. 
+La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
 
 
 
