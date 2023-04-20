@@ -43,7 +43,7 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Nc5RPO-uuxBLzaR_kkBiotzvcN6BmB0&ehbc=2E312F" width="640" height="680"></iframe>
 
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual.
+La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/2022-2023/guion_mutualismo.html) aplicación web. 
 
 
 
@@ -110,14 +110,6 @@ Elaborar un hilo argumental coherente requiere práctica. Os cuento a continuaci
 + Añadir referencias a elementos que los estudiantes ya saben (o deberían de saber...). Esto fomenta el aprendizaje profundo.
 
 Además, la intervención debe de tener una estructura bien definida. Es decir, debéis de usar los consejos anteriores para definir un hilo argumental concreto. Podéis empezar hablando del tipo de ecosistema que estemos visitando para luego seguir, por ejemplo, enumerando los factores ambientales que determinan su estructura y funcionamiento. Esto es solo una sugerencia. Podéis plantear otras opciones. 
-
-Además, creo que es útil que tengáis en cuenta los siguientes aspectos:
-
-+ Intentad no hablar muy rápido ni leer textos. Tampoco los memorices. La memorización de una explicación reduce tu aprendizaje y el del que te escucha. 
-+ Apóyate en mapas o en imágenes. Si necesitáis imprimir algo para la salida, decídmelo y vemos cómo proceder. 
-+ ......
-+ .....
-+ ....
 
 
 
