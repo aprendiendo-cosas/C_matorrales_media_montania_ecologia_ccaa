@@ -9,7 +9,7 @@
 >
 > + **_Estudiantes encargados de la actividad_**: Grupo 1
 >
-> + **_Código para acceder al equipo de Teams_**: bia9nhh
+> + **_Código para acceder al equipo de Teams_**: bia9nhh (Ve a la ventana principal de teams y haz click en "unirse o crear grupo". Luego poner el código anterior donde dice "Unirse a un grupo con un código")
 >
 > 
 
