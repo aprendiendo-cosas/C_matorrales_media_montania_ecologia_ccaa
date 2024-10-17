@@ -11,9 +11,8 @@
 >
 > + **_Código para acceder al equipo de Teams_**: bia9nhh (Ve a la ventana principal de teams y haz click en "unirse o crear grupo". Luego poner el código anterior donde dice "Unirse a un grupo con un código")
 >
-> 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.jpg)
 
 
 
@@ -45,13 +44,11 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Nc5RPO-uuxBLzaR_kkBiotzvcN6BmB0&ehbc=2E312F" width="640" height="680"></iframe>
 
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
+La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2023_2024/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
 
 
 
-![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/imagenes/ndvi.png)
-
-
+![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/refs/tags/2023_2024/imagenes/ndvi.png)
 
 
 
@@ -59,13 +56,13 @@ La siguiente imagen muestra la evolución temporal de la producción primaria en
 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
 + Concepto de producción primaria.
-  + El [guión de este tema](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/main/guion_produccion_primaria.html) de la asignatura contiene los elementos clave a considerar.
+  + El [guión de este tema](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2021-2022/guion_produccion_primaria.html) de la asignatura contiene los elementos clave a considerar.
 
-  + El [guión de la práctica sobre producción primaria](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) también será de ayuda para explicar los conceptos teóricos de interés. 
+  + El [guión de la práctica sobre producción primaria](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2023_2024/guion_ndvi.html) también será de ayuda para explicar los conceptos teóricos de interés. 
 
 + Cambio de usos del suelo. Una de las claves de esta parada es interpretar y entender cómo han cambiado los usos del suelo a lo largo del tiempo. Esto explica la situación actual del sistema estudiado. [Este](https://portalrediam.cica.es/comparaWMS/index.html) visor de fotografías aéreas de la Junta de Andalucía permite conocer cómo ha evolucionado la zona de estudio a lo largo del tiempo. Se puede visualizar la estructura de la vegetación en distintos momentos temporales.
 
-+ Concepto de sucesión ecológica. La sucesión ecológica como proceso natural tiende a regenerar un bosque en la zona estudiada. Los distintos usos del suelo y las perturbaciones que han ocurrido a lo largo del tiempo ayudan o impiden (según el caso) el desarrollo de la sucesión ecológica. El [guión del tema de sucesión](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) ecológica contiene elementos importantes a tener en cuenta.
++ Concepto de sucesión ecológica. La sucesión ecológica como proceso natural tiende a regenerar un bosque en la zona estudiada. Los distintos usos del suelo y las perturbaciones que han ocurrido a lo largo del tiempo ayudan o impiden (según el caso) el desarrollo de la sucesión ecológica. El [guión del tema de sucesión](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2023_2024/guion_sucesion.html) ecológica contiene elementos importantes a tener en cuenta.
 
 + Elementos estructurales y funcionales del ecosistema en cuestión. Se trata de caracterizar el tipo de ecosistema usando el paradigma de la estructura y del funcionamiento. Hemos usado este paradigma o marco conceptual en varias ocasiones durante la asignatura. El siguiente esquema muestra un ejemplo de caracterización o descripción de una dehesa usando este paradigma. En la parte inferior del esquema hay una serie de recuadros que representan los elementos de este marco conceptual: contexto abiótico, estructura, flujos de materia y energía, etc. Haciendo click sobre esos recuadros (los blancos de abajo) se activan o se desactivan los elementos correspondientes a cada bloque en el esquema de arriba. 
 
@@ -79,7 +76,7 @@ Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en 
 Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, son los siguientes:
 
 + Restauración ecológica. Conjunto de técnicas que ponemos en práctica los humanos para tratar de acelerar la sucesión ecológica natural. Implican varias actuaciones diferentes que persiguen reducir la pérdida de suelo y fomentar la recolonización de la vegetación. Los siguientes materiales pueden ser de utilidad:
-  + En el [guión sobre sucesión ecológica](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) hay información relevante para entender este aspecto.
+  + En el [guión sobre sucesión ecológica](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_sucesion_ecologia_ccaa/2023_2024/guion_sucesion.html) hay información relevante para entender este aspecto.
   + [Claves ecológicas para la restauración del bosque mediterráneo. Aspectos demográficos, ecofisiológicos y genéticos.](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/308/303) Artículo de la revista Ecosistemas. 
   +  [Las limitaciones de la restauración de la cubierta vegetal](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/307/302). Artículo de la revista Ecosistemas. 
 
